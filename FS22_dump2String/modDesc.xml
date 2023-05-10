@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="60">
+	<author>Rockstar</author>
+
+	<version>1.0.0.0</version>
+
+	<title>Dump String</title>
+
+	<description>
+		<en>
+			<![CDATA[Dump String]]></en>
+		<de>
+			<![CDATA[Dump String]]></de>
+	</description>
+
+	<iconFilename>icon.png</iconFilename>
+
+	<multiplayer supported="true"/>
+
+	<extraSourceFiles>
+		<sourceFile filename="scripts/main.lua"/>
+	</extraSourceFiles>
+</modDesc>
